@@ -1,0 +1,22 @@
+
+EXECUTIVE SUMMARY - CUSTOMER SEGMENTATION ANALYSIS
+==================================================
+Analysis Date: 2026-01-20
+Total Customers Analyzed: 4,338
+Total Revenue Analyzed: £8,911,408
+Date Range: 2010-12-01 to 2011-12-09
+
+KEY FINDINGS:
+1. Revenue Concentration: ['Champions', '455', '355'] 
+   segments generate 67.9% of total revenue.
+
+2. Customer Distribution: Largest segment by customer count is 'Lost Customers' 
+   with 24.2% of customers.
+
+3. High-Value Customers: 'Champions' segment has the highest 
+   average revenue per customer (£7,491).
+
+RECOMMENDED FOCUS AREAS:
+1. Retention: Focus on 'Champions' and 'Loyal Customers' who drive majority of revenue.
+2. Reactivation: Develop campaigns for 'At Risk' customers with high historical value.
+3. Growth: Nurture 'Need Attention' and 'Potential Loyalists' segments.
